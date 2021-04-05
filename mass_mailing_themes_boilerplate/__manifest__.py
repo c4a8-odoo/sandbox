@@ -5,7 +5,7 @@
     "description": """
 A boilerplate for the community to understand how to build their own custom Odoo Mass Mailing Themes
     """,
-    "version": "10.0.1.0.0",
+    "version": "10.0.2.0.0",
     "category": "Marketing",
     "author": 'Luke Branch, Odoo Community Widgets',
     "depends": [

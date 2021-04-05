@@ -22,7 +22,7 @@
           <head>
               <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
               <meta name="format-detection" content="telephone=yes"/>
-              <meta name="whatever" content="hello world"/>
+              <meta name="cekageka" content="hello world"/>
               <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=no;"/>
               <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE" />
 
@@ -35,7 +35,7 @@
   </template>
 
   <template id="theme_boilerplate" name="Boilerplate Theme">
-    <div class="o_mail_block_header_social">
+    <div class="o_mail_block_header_social"><div class="cekageka"></div>
       <div class="o_mail_snippet_general">
         <!-- HEADER BLOCKS -->
         <t t-snippet="mass_mailing_themes_boilerplate.boilerplate_mail_block_header_social" t-thumbnail="/mass_mailing/static/src/img/blocks/block_header_social.png"/>
