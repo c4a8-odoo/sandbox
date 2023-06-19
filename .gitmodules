@@ -1,0 +1,4 @@
+[submodule "modules/oca/server-auth"]
+	path = modules/oca/server-auth
+	url = git@github.com:OCA/server-auth.git
+	branch = 15.0
