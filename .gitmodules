@@ -2,34 +2,6 @@
 	path = modules/oca/partner-contact
 	url = git@github.com:c4a8-odoo/partner-contact.git
 	branch = 16.0
-[submodule "modules/module-syscoon-accounting-financeinterface"]
-	path = modules/ife/syscoon-accounting-financeinterface
-	url = git@github.com:c4a8-odoo/module-syscoon-accounting-financeinterface.git
-	branch = 16.0
-[submodule "modules/module-syscoon-accounting-financeinterface-xml"]
-	path = modules/ife/syscoon-accounting-financeinterface-xml
-	url = git@github.com:c4a8-odoo/module-syscoon-accounting-financeinterface-xml.git
-	branch = 16.0
-[submodule "modules/module-syscoon-accounting-partner-account"]
-	path = modules/ife/syscoon-accounting-partner-account
-	url = git@github.com:c4a8-odoo/module-syscoon-accounting-partner-account.git
-	branch = 16.0
-[submodule "modules/module-account-addon"]
-	path = modules/gkgab/account-addon
-	url = git@github.com:c4a8-odoo/module-account-addon.git
-	branch = 16.0
-[submodule "modules/module-timesheet-addon"]
-	path = modules/gkgab/timesheet-addon
-	url = git@github.com:c4a8-odoo/module-timesheet-addon.git
-	branch = 16.0
-[submodule "modules/account-invoicing"]
-	path = modules/oca/account-invoicing
-	url = git@github.com:c4a8-odoo/account-invoicing.git
-	branch = 16.0
-[submodule "modules/server-ux"]
-	path = modules/oca/server-ux
-	url = git@github.com:c4a8-odoo/server-ux.git
-	branch = 16.0
 [submodule "modules/module-helpdesk-addon"]
 	path = modules/gkgab/helpdesk-addon
 	url = git@github.com:c4a8-odoo/module-helpdesk-addon.git
@@ -37,10 +9,6 @@
 [submodule "modules/project"]
 	path = modules/oca/project
 	url = git@github.com:c4a8-odoo/project.git
-	branch = 16.0
-[submodule "modules/module-theme"]
-	path = modules/gkgab/theme
-	url = git@github.com:c4a8-odoo/module-theme.git
 	branch = 16.0
 [submodule "modules/timesheet"]
 	path = modules/oca/timesheet
@@ -74,10 +42,6 @@
 	path = modules/oca/hr-expense
 	url = git@github.com:c4a8-odoo/hr-expense.git
 	branch = 16.0
-[submodule "modules/module-syscoon-accounting-financeinterface-import"]
-	path = modules/ife/syscoon-accounting-financeinterface-import
-	url = git@github.com:c4a8-odoo/module-syscoon-accounting-financeinterface-import.git
-	branch = 16.0
 [submodule "modules/purchase-workflow"]
 	path = modules/oca/purchase-workflow
 	url = git@github.com:c4a8-odoo/purchase-workflow.git
@@ -86,22 +50,10 @@
 	path = modules/oca/server-tools
 	url = git@github.com:c4a8-odoo/server-tools.git
 	branch = 16.0
-[submodule "modules/module-partner-contact-addon"]
-	path = modules/gkgab/partner-contact-addon
-	url = git@github.com:c4a8-odoo/module-partner-contact-addon.git
-	branch = 16.0
 [submodule "modules/product-attribute"]
 	path = modules/oca/product-attribute
 	url = git@github.com:c4a8-odoo/product-attribute.git
 	branch = 16.0
-[submodule "modules/module-hucke-epense-calculation/hucke_expense_calculation"]
-	path = modules/ife/hucke-expense-calculation/hucke_expense_calculation
-	url = git@github.com:c4a8-odoo/module-hucke-expense-calculation.git
-	branch = 16.0-mig
-[submodule "modules/osi-addons"]
-	path = modules/other/osi-addons
-	url = git@github.com:c4a8-odoo/osi-addons.git
-	branch = 14.0
 [submodule "modules/module-oca-server-backend"]
 	path = modules/oca/server-backend
 	url = git@github.com:c4a8-odoo/module-oca-server-backend.git
@@ -117,10 +69,6 @@
 [submodule "modules/oca/OpenUpgrade"]
 	path = modules/oca/OpenUpgrade
 	url = git@github.com:c4a8-odoo/oca-OpenUpgrade.git
-	branch = 16.0
-[submodule "modules/ife/gkgab-custom"]
-	path = modules/ife/gkgab-custom
-	url = git@github.com:c4a8-odoo/module-ife-gab-custom-modules.git
 	branch = 16.0
 [submodule "modules/odoo/ps-runbot-testing"]
 	path = modules/odoo/ps-runbot-testing
