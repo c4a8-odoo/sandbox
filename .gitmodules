@@ -6,3 +6,55 @@
 	path = modules/c4a8/helpdesk-addon
 	url = git@github.com:c4a8-odoo/module-helpdesk-addon.git
 	branch = 16.0
+[submodule "modules/oca/server-auth"]
+	path = modules/oca/server-auth
+	url = git@github.com:c4a8-odoo/server-auth.git
+	branch = 16.0
+[submodule "modules/oca/social"]
+	path = modules/oca/social
+	url = git@github.com:c4a8-odoo/social.git
+	branch = 16.0
+[submodule "modules/oca/timesheet"]
+	path = modules/oca/timesheet
+	url = git@github.com:c4a8-odoo/timesheet.git
+	branch = 16.0
+[submodule "modules/oca/account-invoicing"]
+	path = modules/oca/account-invoicing
+	url = git@github.com:c4a8-odoo/account-invoicing.git
+	branch = 16.0
+[submodule "modules/oca/purchase-workflow"]
+	path = modules/oca/purchase-workflow
+	url = git@github.com:c4a8-odoo/purchase-workflow.git
+	branch = 16.0
+[submodule "modules/oca/server-tools"]
+	path = modules/oca/server-tools
+	url = git@github.com:c4a8-odoo/server-tools.git
+	branch = 16.0
+[submodule "modules/oca/server-ux"]
+	path = modules/oca/server-ux
+	url = git@github.com:c4a8-odoo/server-ux.git
+	branch = 16.0
+[submodule "modules/oca/web"]
+	path = modules/oca/web
+	url = git@github.com:c4a8-odoo/web.git
+	branch = 16.0
+[submodule "modules/oca/sale-workflow"]
+	path = modules/oca/sale-workflow
+	url = git@github.com:c4a8-odoo/sale-workflow.git
+	branch = 16.0
+[submodule "modules/oca/contract"]
+	path = modules/oca/contract
+	url = git@github.com:c4a8-odoo/contract.git
+	branch = 16.0
+[submodule "modules/oca/hr-expense"]
+	path = modules/oca/hr-expense
+	url = git@github.com:c4a8-odoo/hr-expense.git
+	branch = 16.0
+[submodule "modules/oca/mis-builder"]
+	path = modules/oca/mis-builder
+	url = git@github.com:c4a8-odoo/module-oca-mis-builder.git
+	branch = 16.0
+[submodule "modules/oca/server-backend"]
+	path = modules/oca/server-backend
+	url = git@github.com:c4a8-odoo/module-oca-server-backend.git
+	branch = 16.0
