@@ -2,10 +2,6 @@
 	path = modules/oca/partner-contact
 	url = git@github.com:c4a8-odoo/partner-contact.git
 	branch = 16.0
-[submodule "modules/c4a8/helpdesk-addon"]
-	path = modules/c4a8/helpdesk-addon
-	url = git@github.com:c4a8-odoo/module-helpdesk-addon.git
-	branch = 16.0
 [submodule "modules/oca/server-auth"]
 	path = modules/oca/server-auth
 	url = git@github.com:c4a8-odoo/server-auth.git
@@ -57,4 +53,40 @@
 [submodule "modules/oca/server-backend"]
 	path = modules/oca/server-backend
 	url = git@github.com:c4a8-odoo/module-oca-server-backend.git
+	branch = 16.0
+[submodule "modules/oca/hr-holidays"]
+	path = modules/oca/hr-holidays
+	url = git@github.com:c4a8-odoo/module-oca-hr-holidays.git
+	branch = 16.0
+[submodule "modules/oca/product-attribute"]
+	path = modules/oca/product-attribute
+	url = git@github.com:c4a8-odoo/product-attribute.git
+	branch = 16.0
+[submodule "modules/oca/project"]
+	path = modules/oca/project
+	url = git@github.com:c4a8-odoo/project.git
+	branch = 16.0
+[submodule "modules/oca/reporting-engine"]
+	path = modules/oca/reporting-engine
+	url = git@github.com:c4a8-odoo/module-oca-reporting-engine.git
+	branch = 16.0
+[submodule "modules/c4a8/account"]
+	path = modules/c4a8/account
+	url = git@github.com:c4a8-odoo/module-account-addon.git
+	branch = 16.0
+[submodule "modules/c4a8/helpdesk"]
+	path = modules/c4a8/helpdesk
+	url = git@github.com:c4a8-odoo/module-helpdesk-addon.git
+	branch = 16.0
+[submodule "modules/c4a8/partner-contact"]
+	path = modules/c4a8/partner-contact
+	url = git@github.com:c4a8-odoo/module-partner-contact-addon.git
+	branch = 16.0
+[submodule "modules/c4a8/theme"]
+	path = modules/c4a8/theme
+	url = git@github.com:c4a8-odoo/module-theme.git
+	branch = 16.0
+[submodule "modules/c4a8/timesheet"]
+	path = modules/c4a8/timesheet
+	url = git@github.com:c4a8-odoo/module-timesheet-addon.git
 	branch = 16.0
