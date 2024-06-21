@@ -70,23 +70,14 @@
 	path = modules/oca/reporting-engine
 	url = git@github.com:c4a8-odoo/module-oca-reporting-engine.git
 	branch = 16.0
-[submodule "modules/c4a8/account"]
-	path = modules/c4a8/account
-	url = git@github.com:c4a8-odoo/module-account-addon.git
-	branch = 16.0
-[submodule "modules/c4a8/helpdesk"]
-	path = modules/c4a8/helpdesk
-	url = git@github.com:c4a8-odoo/module-helpdesk-addon.git
-	branch = 16.0
-[submodule "modules/c4a8/partner-contact"]
-	path = modules/c4a8/partner-contact
-	url = git@github.com:c4a8-odoo/module-partner-contact-addon.git
-	branch = 16.0
-[submodule "modules/c4a8/theme"]
-	path = modules/c4a8/theme
-	url = git@github.com:c4a8-odoo/module-theme.git
-	branch = 16.0
-[submodule "modules/c4a8/timesheet"]
-	path = modules/c4a8/timesheet
-	url = git@github.com:c4a8-odoo/module-timesheet-addon.git
-	branch = 16.0
+[submodule "modules/c4a8/custom"]
+	path = modules/c4a8/custom
+	url = git@github.com:c4a8-odoo/module-c4a8-custom.git
+	branch = 17.0
+[submodule "modules/c4a8/enterprise"]
+	path = modules/c4a8/enterprise
+	url = git@github.com:c4a8-odoo/module-c4a8-enterprise.git
+	branch = 17.0
+[submodule "modules/c4a8/community"]
+	path = modules/c4a8/community
+	url = git@github.com:c4a8-odoo/module-c4a8-community.git
