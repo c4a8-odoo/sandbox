@@ -1,83 +1,140 @@
 [submodule "modules/oca/partner-contact"]
 	path = modules/oca/partner-contact
 	url = git@github.com:c4a8-odoo/module-oca-partner-contact.git
-	branch = 16.0
+	branch = 18.0
 [submodule "modules/oca/server-auth"]
 	path = modules/oca/server-auth
 	url = git@github.com:c4a8-odoo/module-oca-server-auth.git
-	branch = 16.0
+	branch = 18.0
 [submodule "modules/oca/social"]
 	path = modules/oca/social
 	url = git@github.com:c4a8-odoo/module-oca-social.git
-	branch = 16.0
+	branch = 18.0
 [submodule "modules/oca/timesheet"]
 	path = modules/oca/timesheet
 	url = git@github.com:c4a8-odoo/module-oca-timesheet.git
-	branch = 16.0
+	branch = 18.0
 [submodule "modules/oca/account-invoicing"]
 	path = modules/oca/account-invoicing
 	url = git@github.com:c4a8-odoo/module-oca-account-invoicing.git
-	branch = 16.0
+	branch = 18.0
 [submodule "modules/oca/purchase-workflow"]
 	path = modules/oca/purchase-workflow
 	url = git@github.com:c4a8-odoo/module-oca-purchase-workflow.git
-	branch = 16.0
+	branch = 18.0
 [submodule "modules/oca/server-tools"]
 	path = modules/oca/server-tools
 	url = git@github.com:c4a8-odoo/module-oca-server-tools.git
-	branch = 16.0
+	branch = 18.0
 [submodule "modules/oca/server-ux"]
 	path = modules/oca/server-ux
 	url = git@github.com:c4a8-odoo/module-oca-server-ux.git
-	branch = 16.0
+	branch = 18.0
 [submodule "modules/oca/web"]
 	path = modules/oca/web
 	url = git@github.com:c4a8-odoo/module-oca-web.git
-	branch = 16.0
+	branch = 18.0
 [submodule "modules/oca/sale-workflow"]
 	path = modules/oca/sale-workflow
 	url = git@github.com:c4a8-odoo/module-oca-sale-workflow.git
-	branch = 16.0
+	branch = 18.0
 [submodule "modules/oca/contract"]
 	path = modules/oca/contract
 	url = git@github.com:c4a8-odoo/module-oca-contract.git
-	branch = 16.0
+	branch = 18.0
 [submodule "modules/oca/hr-expense"]
 	path = modules/oca/hr-expense
 	url = git@github.com:c4a8-odoo/module-oca-hr-expense.git
-	branch = 16.0
+	branch = 18.0
 [submodule "modules/oca/mis-builder"]
 	path = modules/oca/mis-builder
 	url = git@github.com:c4a8-odoo/module-oca-mis-builder.git
-	branch = 16.0
+	branch = 18.0
 [submodule "modules/oca/server-backend"]
 	path = modules/oca/server-backend
 	url = git@github.com:c4a8-odoo/module-oca-server-backend.git
-	branch = 16.0
+	branch = 18.0
 [submodule "modules/oca/hr-holidays"]
 	path = modules/oca/hr-holidays
 	url = git@github.com:c4a8-odoo/module-oca-hr-holidays.git
-	branch = 16.0
+	branch = 18.0
 [submodule "modules/oca/product-attribute"]
 	path = modules/oca/product-attribute
 	url = git@github.com:c4a8-odoo/module-oca-product-attribute.git
-	branch = 16.0
+	branch = 18.0
 [submodule "modules/oca/project"]
 	path = modules/oca/project
 	url = git@github.com:c4a8-odoo/module-oca-project.git
-	branch = 16.0
+	branch = 18.0
 [submodule "modules/oca/reporting-engine"]
 	path = modules/oca/reporting-engine
 	url = git@github.com:c4a8-odoo/module-oca-reporting-engine.git
-	branch = 16.0
+	branch = 18.0
 [submodule "modules/c4a8/custom"]
 	path = modules/c4a8/custom
 	url = git@github.com:c4a8-odoo/module-c4a8-custom.git
-	branch = 17.0
+	branch = 18.0
 [submodule "modules/c4a8/enterprise"]
 	path = modules/c4a8/enterprise
 	url = git@github.com:c4a8-odoo/module-c4a8-enterprise.git
-	branch = 17.0
+	branch = 18.0
 [submodule "modules/c4a8/community"]
 	path = modules/c4a8/community
 	url = git@github.com:c4a8-odoo/module-c4a8-community.git
+	branch = 18.0
+[submodule "c4a8-odoo/module-oca-account-analytic"]
+	path = modules/oca/account-analytic
+	url = git@github.com:c4a8-odoo/module-oca-account-analytic.git
+	branch = 18.0
+[submodule "c4a8-odoo/module-oca-account-financial-reporting"]
+	path = modules/oca/account-financial-reporting
+	url = git@github.com:c4a8-odoo/module-oca-account-financial-reporting.git
+	branch = 18.0
+[submodule "c4a8-odoo/module-oca-calendar"]
+	path = modules/oca/calendar
+	url = git@github.com:c4a8-odoo/module-oca-calendar.git
+	branch = 18.0
+[submodule "c4a8-odoo/module-oca-commission"]
+	path = modules/oca/commission
+	url = git@github.com:c4a8-odoo/module-oca-commission.git
+	branch = 18.0
+[submodule "c4a8-odoo/module-oca-connector"]
+	path = modules/oca/connector
+	url = git@github.com:c4a8-odoo/module-oca-connector.git
+	branch = 18.0
+[submodule "c4a8-odoo/module-oca-crm"]
+	path = modules/oca/crm
+	url = git@github.com:c4a8-odoo/module-oca-crm.git
+	branch = 18.0
+[submodule "c4a8-odoo/module-oca-l10n-germany"]
+	path = modules/oca/l10n-germany
+	url = git@github.com:c4a8-odoo/module-oca-l10n-germany.git
+	branch = 18.0
+[submodule "c4a8-odoo/module-oca-l10n-spain"]
+	path = modules/oca/l10n-spain
+	url = git@github.com:c4a8-odoo/module-oca-l10n-spain.git
+	branch = 18.0
+[submodule "c4a8-odoo/module-oca-l10n-switzerland"]
+	path = modules/oca/l10n-switzerland
+	url = git@github.com:c4a8-odoo/module-oca-l10n-switzerland.git
+	branch = 18.0
+[submodule "c4a8-odoo/module-oca-maintenance"]
+	path = modules/oca/maintenance
+	url = git@github.com:c4a8-odoo/module-oca-maintenance.git
+	branch = 18.0
+[submodule "c4a8-odoo/module-oca-mass-mailing"]
+	path = modules/oca/mass-mailing
+	url = git@github.com:c4a8-odoo/module-oca-mass-mailing.git
+	branch = 18.0
+[submodule "c4a8-odoo/module-oca-server-env"]
+	path = modules/oca/server-env
+	url = git@github.com:c4a8-odoo/module-oca-server-env.git
+	branch = 18.0
+[submodule "c4a8-odoo/module-oca-website"]
+	path = modules/oca/website
+	url = git@github.com:c4a8-odoo/module-oca-website.git
+	branch = 18.0
+[submodule "c4a8-odoo/module-oca-OpenUpgrade"]
+	path = modules/oca/OpenUpgrade
+	url = git@github.com:c4a8-odoo/oca-OpenUpgrade.git
+	branch = 18.0
