@@ -138,3 +138,51 @@
 	path = modules/oca/OpenUpgrade
 	url = git@github.com:c4a8-odoo/oca-OpenUpgrade.git
 	branch = 18.0
+[submodule "c4a8-odoo/module-oca-account-closing"]
+	path = modules/oca/account-closing
+	url = git@github.com:c4a8-odoo/module-oca-account-closing.git
+	branch = 18.0
+[submodule "c4a8-odoo/module-oca-account-payment"]
+	path = modules/oca/account-payment
+	url = git@github.com:c4a8-odoo/module-oca-account-payment.git
+	branch = 18.0
+[submodule "c4a8-odoo/module-oca-account-reconcile"]
+	path = modules/oca/account-reconcile
+	url = git@github.com:c4a8-odoo/module-oca-account-reconcile.git
+	branch = 18.0
+[submodule "c4a8-odoo/module-oca-bank-payment-alternative"]
+	path = modules/oca/bank-payment-alternative
+	url = git@github.com:c4a8-odoo/module-oca-bank-payment-alternative.git
+	branch = 18.0
+[submodule "c4a8-odoo/module-oca-bank-statement-import"]
+	path = modules/oca/bank-statement-import
+	url = git@github.com:c4a8-odoo/module-oca-bank-statement-import.git
+	branch = 18.0
+[submodule "c4a8-odoo/module-oca-credit-control"]
+	path = modules/oca/credit-control
+	url = git@github.com:c4a8-odoo/module-oca-credit-control.git
+	branch = 18.0
+[submodule "c4a8-odoo/module-oca-dms"]
+	path = modules/oca/dms
+	url = git@github.com:c4a8-odoo/module-oca-dms.git
+	branch = 18.0
+[submodule "c4a8-odoo/module-oca-event"]
+	path = modules/oca/event
+	url = git@github.com:c4a8-odoo/module-oca-event.git
+	branch = 18.0
+[submodule "c4a8-odoo/module-oca-knowledge"]
+	path = modules/oca/knowledge
+	url = git@github.com:c4a8-odoo/module-oca-knowledge.git
+	branch = 18.0
+[submodule "c4a8-odoo/module-oca-mail"]
+	path = modules/oca/mail
+	url = git@github.com:c4a8-odoo/module-oca-mail.git
+	branch = 18.0
+[submodule "c4a8-odoo/module-oca-multi-company"]
+	path = modules/oca/multi-company
+	url = git@github.com:c4a8-odoo/module-oca-multi-company.git
+	branch = 18.0
+[submodule "c4a8-odoo/module-oca-storage"]
+	path = modules/oca/storage
+	url = git@github.com:c4a8-odoo/module-oca-storage.git
+	branch = 18.0
