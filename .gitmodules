@@ -2,7 +2,3 @@
 	path = modules/oca/partner-contact
 	url = git@github.com:c4a8-odoo/partner-contact.git
 	branch = 16.0
-[submodule "modules/c4a8/helpdesk-addon"]
-	path = modules/c4a8/helpdesk-addon
-	url = git@github.com:c4a8-odoo/module-helpdesk-addon.git
-	branch = 16.0
